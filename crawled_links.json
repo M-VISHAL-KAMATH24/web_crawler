@@ -1,0 +1,9 @@
+[
+  {
+    "url": "https://example.com",
+    "internal_links": [],
+    "external_links": [
+      "https://iana.org/domains/example"
+    ]
+  }
+]
